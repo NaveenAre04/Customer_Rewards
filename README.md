@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+Spring Boot:
+
+#Download demo and open it in IDE
+
+#Run the main file and start the application
+
+#Test the responses using Postman and see the response
