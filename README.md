@@ -34,3 +34,5 @@ Spring Boot:
 #Run the main file and start the application
 
 #Test the responses using Postman and see the response
+
+#Please find DataSet.sql file under resources tab
